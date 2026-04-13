@@ -74,6 +74,20 @@ a:hover {
     line-height: 1.6;
 }
 
+.experience {
+    margin-bottom: 48px;
+}
+
+.experience-entry {
+    margin-bottom: 32px;
+}
+
+.experience-meta {
+    font-size: 14px;
+    color: #8a8a8a;
+    margin-bottom: 12px;
+}
+
 .projects {
     margin-bottom: 48px;
 }
